@@ -19,6 +19,8 @@ Documentation	Report (PDF/Doc)
 Presentation	Gamma AI for PPT building
 Version Control	Git & GitHub
 🔍 Project Steps
+
+
 1️⃣ Load Data in Python
 Imported dataset using Pandas
 Checked data structure, missing values, and datatypes
@@ -72,6 +74,9 @@ Summarized findings for non-technical stakeholders
 
 📈 Key Results & Insights
 Summary of major findings (customize):
+
 Example: Customer churn is highest in month-to-month contracts (42%)
+
 Example: Sales increased by 18% after promotional campaigns
+
 Example: Top 10% customers contribute 45% of revenue
